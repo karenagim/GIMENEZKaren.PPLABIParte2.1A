@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1589971359 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"color.h"
+	"tipos.h"
+	"trabajos.h"
+
+1589985741 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\datamascota.h
+
+1589982793 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\mascota.h
+	"color.h"
+	"tipos.h"
+	"servicios.h"
+	"cliente.h"
+
+1589986061 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DATAMASCOTA.h"
+	"VALIDACION.h"
+	"mascota.h"
+	"cliente.h"
+	"tipos.h"
+	"servicios.h"
+
+1589946648 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\tipos.h
+
+1589946847 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1589946442 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1589946442 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\color.h
+
+1589931417 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"VALIDACION.h"
+
+1589931417 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\validacion.h
+
+1589978124 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\servicios.h
+
+1589973902 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1589979944 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"tipos.h"
+	"servicios.h"
+	"trabajos.h"
+	"VALIDACION.h"
+
+1589979944 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\trabajos.h
+	"color.h"
+	"tipos.h"
+	"servicios.h"
+
+1589977163 c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\cliente.h
+
+1589977966 source:c:\users\compu casa\desktop\practica prog\parcial vet 18-5\gimenez karen\parcial veterinaria\cliente.c
+	"mascota.h"
+	"cliente.h"
+
